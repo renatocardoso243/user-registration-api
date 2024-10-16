@@ -3,7 +3,7 @@
     $host = 'aws-0-sa-east-1.pooler.supabase.com';
     $db = 'postgres';
     $user = 'postgres.xzdqjbcapveyyomwdsql';
-    $pass = '2wX8BD650UaWOW2w';
+    $pass = 'x5wRqAKcnIVng12v';
 
     $dsn = 'pgsql:host=$host;dbname=$db';
 
